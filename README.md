@@ -2,7 +2,7 @@
 
 一个装修 App 的后端示例，使用 **Django + Django REST Framework** 实现，覆盖装修项目从规划到施工、材料采购和费用记录的核心数据。
 
-> This project is under active development and is being built by the **Devin Bots** team.
+> This project is under active development. We plan to use **Devin Bots (Cognition)** for AI-assisted development.
 > Contributions, issues and feedback are welcome.
 
 ## 功能
