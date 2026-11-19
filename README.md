@@ -2,6 +2,9 @@
 
 一个装修 App 的后端示例，使用 **Django + Django REST Framework** 实现，覆盖装修项目从规划到施工、材料采购和费用记录的核心数据。
 
+> This project is under active development and is being built by the **Devin Bots** team.
+> Contributions, issues and feedback are welcome.
+
 ## 功能
 
 - **装修项目**：面积、预算、风格、状态、开工/预计完工日期
